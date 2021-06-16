@@ -1,4 +1,5 @@
 -Dojo Dodge
 -version 0
 -lista de caracteristicas
-	
+	-caracteritica 1
+	-caracteritica 2
